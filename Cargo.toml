@@ -5,4 +5,5 @@ members = [
     "crates/day3",
     "crates/day4",
     "crates/day5",
+    "crates/day6",
 ]
